@@ -12,7 +12,10 @@ Feel free to star this repo 🤗
 
 ### 💻 Skills and Technologies
 I have experience with various technologies, tools and programming languages, including: <br>
-![CSS]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white))![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![HTML](https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white))
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![HTML](https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 GitHub Stats:
 [![senga-bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=senga-bruce&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
