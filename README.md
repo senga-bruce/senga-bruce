@@ -8,13 +8,16 @@
 Feel free to star this repo 🤗
 
 ### 🌐 Socials:
-[![Facebook](](https://www.facebook.com/michealkenzo.jordan/) [![LinkedIn](https://www.linkedin.com/in/senga-bruce-4a59222ba/) [![Instagram](https://www.instagram.com/brvce_._/)](https://twitter.com/senga-bruce) 
+Instagram : (https://www.instagram.com/brvce_._/)
+Facebook : (https://www.facebook.com/michealkenzo.jordan/)
+Threads : (https://www.threads.net/@brvce_._)
+Linked in : (https://www.linkedin.com/in/senga-bruce-4a59222ba/)
 
 ### 💻 Skills and Technologies
 I have experience with various technologies, tools and programming languages, including: <br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white))
+![CSS]([https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/css-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white))
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![HTML](https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 GitHub Stats:
